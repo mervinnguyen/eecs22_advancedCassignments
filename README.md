@@ -1,12 +1,14 @@
-# EECS22 - Advanced C Programming Assignments
+# EECS22 — Advanced C Programming
 
-This repository hosts assignments for the EECS22 Advanced C Programming course.
+Coursework for EECS22. Each assignment explores systems-level C concepts through focused, well-structured implementations.
 
-## Overview
+## Topics Covered
 
-Each assignment is organized into its respective folder. The code is written with clarity and well-commented to aid understanding. The assignments implement various advanced C programming concepts, including:
+- **Control flow** — branching, loops, and structured program logic
+- **Function design** — modularity, parameter passing, and stack frames
+- **Recursion** — base cases, call trees, and space/time tradeoffs
+- **Data structures & algorithms** — linked lists, sorting, and complexity analysis
 
-- Control Flow
-- Function Calls
-- Recursion
-- Data Structures/Algorithms
+## Notes
+
+Code is written for correctness and readability — minimal dependencies, no undefined behavior, compiled clean under `-Wall -Wextra -std=c99`.
