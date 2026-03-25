@@ -11,4 +11,4 @@ Coursework for EECS22. Each assignment explores systems-level C concepts through
 
 ## Notes
 
-Code is written for correctness and readability — minimal dependencies, no undefined behavior, compiled clean under `-Wall -Wextra -std=c99`.
+Code is written for correctness and readability, minimal dependencies, no undefined behavior, compiled clean under `-Wall -Wextra -std=c99`.
